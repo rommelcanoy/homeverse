@@ -6,7 +6,7 @@ Homeverse - Find your dream house
 <ion-icon name="mail-outline"></ion-icon>
 
 <ion-icon name="location-outline"></ion-icon>
-15/A, Nest Tower, NYC
+Tagum City, Philippines
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -257,7 +257,7 @@ alt = Homeverse logo
 Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
 
 <ion-icon name="location-outline"></ion-icon>
-Brooklyn, New York, United States
+Tagum City, Philippines
 
 <ion-icon name="call-outline"></ion-icon>
 +0123-456789
