@@ -4,7 +4,6 @@ Homeverse - Find your dream house
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-info@homeverse.com
 
 <ion-icon name="location-outline"></ion-icon>
 15/A, Nest Tower, NYC
@@ -264,7 +263,6 @@ Brooklyn, New York, United States
 +0123-456789
 
 <ion-icon name="mail-outline"></ion-icon>
-contact@homeverse.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
