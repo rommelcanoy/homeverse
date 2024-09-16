@@ -170,9 +170,9 @@ Luxury villa in Rego Park
 
 # FEATURES
 
-Our Aminities
+Our Amenities
 
-Building Aminities
+Building Amenities
 
 <ion-icon name="car-sport-outline"></ion-icon>
 Parking Space
